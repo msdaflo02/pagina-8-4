@@ -1,5 +1,17 @@
 .contenedor¨{
     width: 200px;
-    height: 200px;
+    height: 1200px;
     background-color: rgb(145, 89, 197) 
+}
+
+.sociales¨ {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(160, 160, 82);
+}
+
+.tecnologia ¨ {
+    width: 100px;
+    height: 100px;
+background-color: rgb(46, 177, 138);
 }
