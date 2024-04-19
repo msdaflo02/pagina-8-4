@@ -1,17 +1,39 @@
-.contenedor¨{
-    width: 200px;
-    height: 1200px;
-    background-color: rgb(145, 89, 197) 
+.contenedor{
+
+width: 1300px;
+height: 400px;
+background-color: blueviolet;
+display: flex;
+flex-direction: column;
 }
 
-.sociales¨ {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(160, 160, 82);
-}
+.encabezado {
 
-.tecnologia ¨ {
-    width: 100px;
-    height: 100px;
-background-color: rgb(46, 177, 138);
+width: 1300px;
+height: 200px;
+background-color: aqua;
+
+}
+.sociales{
+
+    width: 1300px;
+    height: 400px;
+    background-color: blue;
+
+
+
+}
+.tecnologia{
+
+    width: 1300px;
+    height: 400px;
+    background-color: rgb(194, 44, 136);
+
+}
+.igles{
+
+    width: 1300px;
+    height: 500px;
+    background-color: rgb(128, 204, 29);
+
 }
